@@ -8,5 +8,5 @@
 for (var i = 0; i < 100; i++) {
   var numeri = [];
 
-  console.log(numeri[]);
+  console.log(numeri[i]);
 }
